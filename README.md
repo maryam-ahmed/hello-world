@@ -1,5 +1,4 @@
 # hello-world
-just a new repository
 
 Hi 
 I just started learning web development . I am a student in Communication and Electronics Engineering Department.
